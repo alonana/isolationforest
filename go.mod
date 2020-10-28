@@ -1,1 +1,3 @@
-module "github.com/alonana"
+module github.com/alonana/isolationforest
+
+go 1.15
